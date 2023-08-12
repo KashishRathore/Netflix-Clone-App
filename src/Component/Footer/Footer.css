@@ -1,0 +1,46 @@
+footer{
+    background: rgb(0, 0, 0);
+    color: rgb(192, 192, 192);
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+
+footer p{
+    position: relative;
+    left: 10%;
+    margin: 3rem 1rem 2rem 1rem;
+    font-weight: 500;
+}
+
+.footer{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin: 0% 3%;
+}
+
+.footer li{
+    list-style: none;
+    margin: 7% 0;
+}
+
+footer a{
+    text-decoration: underline;
+    color: rgb(192, 192, 192);
+
+}
+
+.box{
+    margin: 0% 9%;
+}
+
+#language{
+    color: #fff;
+    margin: 20px 0 10px 0;
+    padding: 2px 12px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 4px;
+
+}
